@@ -1,0 +1,15 @@
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\bin\Debug\ViaWindowsForm.exe.config
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\bin\Debug\ViaWindowsForm.exe
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\bin\Debug\ViaWindowsForm.pdb
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\obj\Debug\ViaWindowsForm.csprojAssemblyReference.cache
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\obj\Debug\ViaWindowsForm.Properties.Resources.resources
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\obj\Debug\ViaWindowsForm.csproj.GenerateResource.cache
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\obj\Debug\ViaWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\obj\Debug\ViaWindowsForm.exe
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\obj\Debug\ViaWindowsForm.pdb
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\bin\Debug\Interop.AXVLC.dll
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\obj\Debug\Interop.AXVLC.dll
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\obj\Debug\ViaWindowsForm.csproj.ResolveComReference.cache
+C:\Users\FFI\source\repos\PlayStreamUsingRtsp\ViaWindowsForm\obj\Debug\ViaWindowsForm.Form1.resources
